@@ -1,6 +1,9 @@
 # **Landsat 위성영상을 이용한 파주시의 지표면 온도 변화와 NDVI 관계 분석**
 **Analysis of Relationship between Land Temperature Changed and NDVI in Paju Using LandsatSatellite Imagery**
 
+<img width="730" alt="image" src="https://user-images.githubusercontent.com/129578708/234231854-ef957f6d-4823-466a-865c-2089d46234bc.png">
+
+---
 <img width="1114" alt="스크린샷 2023-04-25 오후 6 05 00" src="https://user-images.githubusercontent.com/129578708/234229279-956b7ac6-dddd-4ecf-94b9-0f210aed0d1e.png">
 
 <img width="1195" alt="스크린샷 2023-04-25 오후 6 05 23" src="https://user-images.githubusercontent.com/129578708/234229300-1162e1da-fdcf-4bc4-9321-cf7718b13df0.png">
